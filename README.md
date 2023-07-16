@@ -2,34 +2,45 @@
 
 This is the **Larrea Dark** theme! The Horizon Theme based new dark theme for VS Code.
 
-<br/>
+
+<br/><hr/><br/>
+
 
 ## Snapshots
 
-* HTML with JS
+* **Larrea Dark**
 
-![html_js](./snapshots/html_js.png)
-
-<br/>
-
-* SCSS
-
-![css_scss](./snapshots/css_scss.png)
+![VSCode](./images/snapshots/vscode.jpg)
 
 <br/>
 
-* Python
+* **HTML with JS**
 
-![python](./snapshots/python.png)
+![html_js](./images/snapshots/html_js.png)
+
+
+<br/>
+
+* **SCSS**
+
+![css_scss](./images/snapshots/css_scss.png)
+
+<br/>
+
+* **Python**
+
+![python](./images/snapshots/python.png)
 
 <br/>
 
 > The used font in the snapshots is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 
-<br/>
+<br/><hr/><br/>
 
 
 ## Repository
 
 View the repository on [GitHub](https://github.com/nlarrea/larrea-dark-theme)!
+
+If you would like to create a new Issue or PR, please do so!
