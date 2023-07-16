@@ -1,8 +1,9 @@
 {
   "name": "larrea-dark",
   "displayName": "Larrea Dark",
+  "icon": "snapshots/html_js.png",
   "description": "Larrea Dark theme!",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "LarreaTheme",
   "repository": {
     "type": "git",
