@@ -1,0 +1,22 @@
+{
+  "name": "larrea-dark",
+  "displayName": "Larrea Dark",
+  "description": "Larrea Dark theme!",
+  "version": "0.0.1",
+  "publisher": "LarreaTheme",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Larrea Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Larrea Dark-color-theme.json"
+      }
+    ]
+  }
+}
